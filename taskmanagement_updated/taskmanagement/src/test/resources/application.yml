@@ -1,0 +1,4 @@
+security:
+  jwt:
+    secret: dGVzdC1zZWNyZXQtdGVzdC1zZWNyZXQtdGVzdC1zZWNyZXQ=
+    expiration: 3600000
